@@ -1,0 +1,6 @@
+assets/*
+
+!assets/ieseg.png
+!assets/PDP.mp4
+!assets/ICE.mp4
+!assets/ALE.mp4
