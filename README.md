@@ -1,4 +1,4 @@
-[](assets/ieseg.png)
+![ieseg logo](assets/ieseg.png)
 
 - Fundamentals of Interpretable Data Science, 2023
 - Animations
